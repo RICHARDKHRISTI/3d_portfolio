@@ -4,6 +4,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: 'https://github.com/RICHARDKHRISTI/3dportfolio.github.io',
+  base: 'https://visionary-axolotl-5af3e5.netlify.app/',
   plugins: [react(), tailwindcss()],
 });
