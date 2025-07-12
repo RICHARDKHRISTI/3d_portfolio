@@ -1,3 +1,4 @@
+DEPLOYED : https://rk3dportfolio.netlify.app/
 Richard Khristi – Interactive 3D Portfolio Website
 Crafted from scratch to showcase my skills, creativity, and tech mastery. This isn’t just a website — it’s an experience. Built to reflect who I am, what I do, and where I’m heading.
 Explore. Scroll. Feel the tech.
